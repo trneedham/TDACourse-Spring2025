@@ -1,0 +1,11 @@
+numpy
+matplotlib
+seaborn
+pandas
+sklearn
+scipy
+networkx
+gudhi
+scikit-tda
+giotto-tda
+openml
